@@ -1,4 +1,4 @@
-import { Container, Row } from 'react-bootstrap';
+
 
 const categories = [
     {  name: 'Category1', image:"https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/layout-engine/2022-12/paan-corner_web.png" },

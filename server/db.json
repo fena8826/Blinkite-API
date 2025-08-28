@@ -1,92 +1,77 @@
 {
   "products": [
     {
-      "id": "151749",
-      "title": "Angoori Rasmalai",
-      "desc": "Angoori Rasmalai",
-      "price": "600",
+      "id": "531001",
+      "title": "Bhagyalakshmi Ragi Flour",
+      "desc": "Bhagyalakshmi Ragi Flour",
+      "price": "123",
       "category": "Dairy, Bread & Eggs",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/assets/search/usecase/banner/angoori_rasmalai_01.png"
+      "image": "https://cdn.zeptonow.com/production/ik-seo/tr:w-470,ar-1200-1200,pr-true,f-auto,q-80/cms/product_variant/b873905a-12cf-46e8-9bdb-1a489f8c2580/Bhagyalakshmi-Ragi-Flour.jpg"
     },
     {
-      "id": "499550",
-      "title": "Barley Kheer",
-      "desc": "Barley Kheer",
-      "price": "900",
-      "category": "Dairy, Bread & Eggs",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/assets/search/usecase/banner/barley_kheer_01.png"
-    },
-    {
-      "id": "041147",
-      "title": "Whole Farm Grocery Almonds",
-      "desc": "Whole Farm Grocery Almonds",
-      "price": "1000",
-      "category": "Snacks & Munchies",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=120,h=120/da/cms-assets/cms/product/5b96513f-16b6-49b6-a656-059ee375b79c.jpg"
-    },
-    {
-      "id": "895492",
-      "title": "Butter Uttapam",
-      "desc": "Butter Uttapam",
-      "price": "300",
-      "category": "Snacks & Munchies",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/assets/search/usecase/banner/butter_uttapam_01.png"
-    },
-    {
-      "id": "037470",
-      "title": "Butter Toast",
-      "desc": "Butter Toast",
-      "price": "300",
-      "category": "Snacks & Munchies",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/assets/search/usecase/banner/butter_toast_01.png"
-    },
-    {
-      "id": "541269",
-      "title": "Beanly Dark Chocolate Spread with Breadsticks",
-      "desc": "Beanly Dark Chocolate Spread with Breadsticks",
-      "price": "500",
-      "category": "Snacks & Munchies",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=85,metadata=none,w=120,h=120/da/cms-assets/cms/product/ec662e3f-20a3-49ce-8ca4-d9b741a61049.jpg"
-    },
-    {
-      "id": "794086",
-      "title": "Anar Dahi Bhalla",
-      "desc": "Anar Dahi Bhalla",
-      "price": "1580",
-      "category": "Dairy, Bread & Eggs",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/assets/search/usecase/banner/anar_dahi_bhalla_01.png"
-    },
-    {
-      "id": "803023",
-      "title": "Avocado Smoothie",
-      "desc": "Avocado Smoothie",
-      "price": "1200",
-      "category": "Cold Drinks & Juices",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/assets/search/usecase/banner/avocado_smoothie_01.png"
-    },
-    {
-      "id": "496363",
-      "title": "Bread Pudding",
-      "desc": "Bread Pudding",
+      "id": "020961",
+      "title": "Jivo Daily Pomace Olive Oil",
+      "desc": "Jivo Daily Pomace Olive Oil",
       "price": "450",
       "category": "Dairy, Bread & Eggs",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/assets/search/usecase/banner/bread_pudding_01.png"
+      "image": "https://cdn.zeptonow.com/production/ik-seo/tr:w-88,ar-1500-1500,pr-true,f-auto,q-80/cms/product_variant/18d7da4e-a79d-4a0c-9253-0fc797b53566/Jivo-Daily-Pomace-Olive-Oil.jpg"
     },
     {
-      "id": "636644",
-      "title": "Barnyard Millet Uttapam",
-      "desc": "Barnyard Millet Uttapam",
-      "price": "500",
+      "id": "753687",
+      "title": "Chocolates",
+      "desc": "Lo Foods Dark Chocolate Bar Hazelnut Premium Sugar Free Chocolate Rich Healthy Chocolates",
+      "price": "176",
+      "category": "Dairy, Bread & Eggs",
+      "image": "https://cdn.zeptonow.com/production/ik-seo/tr:w-470,ar-2000-2000,pr-true,f-auto,q-80/cms/product_variant/a619be8f-464c-41c1-8182-ea943b6e9b52/Lo-Foods-Dark-Chocolate-Bar-Hazelnut-Premium-Sugar-Free-Chocolate-Rich-Healthy-Chocolates.jpeg"
+    },
+    {
+      "id": "086829",
+      "title": "Masala Noodles ",
+      "desc": "MAGGI 2-Minute Instant Noodles | Masala Noodles | Made With Quality Spices",
+      "price": "125",
       "category": "Snacks & Munchies",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/assets/search/usecase/banner/barnyard_millet_uttapam_01.png"
+      "image": "https://cdn.zeptonow.com/production/ik-seo/tr:w-470,ar-1176-1176,pr-true,f-auto,q-80/cms/product_variant/5e44c2c3-8fa7-460f-8b1d-3fec37b77c1b/MAGGI-2-Minute-Instant-Noodles-Masala-Noodles-Made-With-Quality-Spices.jpeg"
     },
     {
-      "id": "265853",
-      "title": "weerer",
-      "desc": "sdfawe",
-      "price": "234",
+      "id": "203368",
+      "title": "Chocolate Mousse",
+      "desc": "Chocolate Mousse",
+      "price": "119",
+      "category": "Dairy, Bread & Eggs",
+      "image": "https://cdn.zeptonow.com/production/ik-seo/tr:w-470,ar-2400-2400,pr-true,f-auto,q-80/cms/product_variant/2a827af7-5559-4f9b-90cd-c26ef9906f8c/Chocolate-Mousse.jpeg"
+    },
+    {
+      "id": "998702",
+      "title": "Cream Pot Vanilla Tub",
+      "desc": "Cream Pot Vanilla Tub",
+      "price": "370",
       "category": "Cold Drinks & Juices",
-      "image": "https://cdn.grofers.com/cdn-cgi/image/f=auto,fit=scale-down,q=70,metadata=none,w=270/assets/search/usecase/banner/angoori_rasmalai_01.png"
+      "image": "https://cdn.zeptonow.com/production/ik-seo/tr:w-470,ar-2400-2400,pr-true,f-auto,q-80/cms/product_variant/aa2e4582-d5f4-47aa-b0ae-deddb3b68cd1/Cream-Pot-Vanilla-Tub.jpeg"
+    },
+    {
+      "id": "321340",
+      "title": "Snacky Avocado",
+      "desc": "Snacky Avocado",
+      "price": "100",
+      "category": "Fresh Vegetables",
+      "image": "https://cdn.zeptonow.com/production/ik-seo/tr:w-470,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/366753e0-f787-4c3a-9774-391a42be1567/Snacky-Avocado.jpeg"
+    },
+    {
+      "id": "151000",
+      "title": "Organic Chilli Green",
+      "desc": "Organic Chilli Green",
+      "price": "40",
+      "category": "Fresh Vegetables",
+      "image": "https://cdn.zeptonow.com/production/ik-seo/tr:w-470,ar-400-300,pr-true,f-auto,q-80/inventory/product/07d9956b-e238-4767-8b8a-ebea081f84c9-/tmp/20230901-1226031/Organic-Chilli-Green.jpeg"
+    },
+    {
+      "id": "457312",
+      "title": "Tender Coconut",
+      "desc": "Tender Coconut",
+      "price": "50",
+      "category": "Fresh Fruits",
+      "image": "https://cdn.zeptonow.com/production/ik-seo/tr:w-470,ar-3000-3000,pr-true,f-auto,q-80/cms/product_variant/4bdbf9f5-023b-4d38-a1c6-f8a37c73759a/Tender-Coconut.jpeg"
     }
-  ]
+  ],
+  "user": []
 }

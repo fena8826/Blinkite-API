@@ -65,7 +65,7 @@ const products = [
 const ProductCard = () => {
   return (
     <Container className="my-4">
- <h5 className="fw-bolder mb-5  text-success">Dairy, Bread & Eggs</h5>
+ <h5 className="fw-bolder mb-5  text-danger">Dairy, Bread & Eggs</h5>
 
       <Row>
         {products.map((prod) => (
@@ -82,7 +82,7 @@ const ProductCard = () => {
                 <div
                   style={{
                     position: "absolute",
-                    backgroundColor: "#0056d2",
+                    backgroundColor: "red",
                     color: "#fff",
                     fontSize: "10px",
                     padding: "2px 6px",
@@ -120,7 +120,7 @@ const ProductCard = () => {
                     )}
                   </div>
                   <Button
-                    variant="outline-success"
+                    variant="outline-danger"
                     size="sm"
                     style={{
                       fontWeight: "bold",

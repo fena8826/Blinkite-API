@@ -6,11 +6,11 @@ import { useNavigate } from "react-router";
 import ReactPaginate from "react-paginate";
 import { BsEye } from "react-icons/bs"; 
 import { FaSearch, FaTimes, FaSort } from "react-icons/fa";
-import bannerImage from "../assets/banner.jpg";
+import bannerImage from "../assets/banner.png";
 import "./Home.css";
 import ProductCard from "./ProductCard";
-import RollingPaperTobacco from "./products";
 import Categories from "./Categories";
+import ElevateYourself from "./ElevateYourself";
 
 
 const Home = () => {
@@ -111,7 +111,7 @@ const Home = () => {
           top: "50%",
           left: "10px",
           transform: "translateY(-50%)",
-          color: "#28a745",
+          color: "#6A0DAD",
         }}
       />
       <input
@@ -132,7 +132,7 @@ const Home = () => {
       className="rounded-4 px-3 d-flex align-items-center gap-2"
       onClick={handleSearch}
     >
-      <FaSearch /> Search
+      <FaSearch  /> Search
     </Button>
     <Button
       variant="outline-success"
@@ -183,13 +183,13 @@ const Home = () => {
       <Container>
         
         <ProductCard />
-        <RollingPaperTobacco />
+      <ElevateYourself/>
        
 
-        <h2 className="mb-4 text-center fw-bold text-success">All Products</h2>
+        <h2 className="mb-4 text-center fw-bold text-danger">All Products</h2>
 
         {isLoading ? (
-          <div className="text-center text-success">
+          <div className="text-center text-danger">
             <Spinner animation="border" />
           </div>
         ) : (
@@ -197,7 +197,7 @@ const Home = () => {
             <Row xs={1} sm={2} md={3} lg={4} className="g-4">
               {currentItems.map((prod) => (
                 <Col key={prod.id}>
-                  <Card className="product-card shadow-sm border-success">
+                  <Card className="product-card shadow-sm border">
                     <Card.Img
                       variant="top"
                       src={prod.image}
@@ -214,21 +214,21 @@ const Home = () => {
                       <Card.Text className="text-muted small">
                         {prod.desc}
                       </Card.Text>
-                      <p className="mb-1 text-success">
+                      <p className="mb-1 text-danger">
                         <strong>₹{prod.price}</strong>
                       </p>
                       <p className="mb-0 text-secondary">{prod.category}</p>
                     </Card.Body>
                     <Card.Footer className="d-flex justify-content-between bg-white border-0 pt-2">
                       <Button
-                        variant="outline-success"
+                        variant="outline-danger"
                         size="sm"
                         onClick={() => handleEdit(prod.id)}
                       >
                         Edit
                       </Button>
                       <Button
-                        variant="success"
+                        variant="danger"
                         size="sm"
                         onClick={() => handleDelete(prod.id)}
                       >

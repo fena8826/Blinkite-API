@@ -20,7 +20,7 @@
   content: "";
   width: 60px;
   height: 4px;
-  background-color: #28a745;
+  background-color: #6A0DAD;
   display: block;
   margin: 12px auto 0 auto;
   border-radius: 2px;
@@ -46,19 +46,21 @@
   line-height: 1.5;
 }
 
+
 .edit-product-container button[type="submit"] {
-  background-color: #28a745;
+  background: linear-gradient(135deg, #6A0DAD, #520a91);
   border: none;
   padding: 10px 25px;
   border-radius: 8px;
   font-weight: 500;
   margin-top: 15px;
-  transition: background-color 0.3s ease;
+  transition: all 0.3s ease;
   color: #fff;
 }
 
 .edit-product-container button[type="submit"]:hover {
-  background-color: #218838;
+  background: linear-gradient(135deg, #520a91, #3c086c);
+  transform: translateY(-2px);
 }
 
 .edit-product-container .product-img {
